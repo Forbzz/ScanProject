@@ -1,0 +1,17 @@
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\book\SearchBookContentsActivity$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\R$raw$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\CaptureActivity$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\encode\EncodeActivity$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\share\ShareActivity$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\HelpActivity$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\R$layout$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\R$string$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\history\HistoryActivity$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\history\HistoryItemAdapter$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\R$menu$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\R$style$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\R$xml$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\book\SearchBookContentsListItem$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\R$id$override.class
+CHANGED,D:\AndroidStudio\ScanProject\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\zxing\client\android\R$override.class
